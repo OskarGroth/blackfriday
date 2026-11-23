@@ -1,0 +1,12 @@
+{
+  "name": "Sensei",
+  "url": "https://cindori.com/sensei",
+  "description": "A system performance monitoring tool for the Mac: CPU, GPU, memory and battery at a glance, with storage tools built in",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off: $29.50 instead of $59, no code needed",
+  "price": { "regular": 59, "sale": 29.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01"
+}

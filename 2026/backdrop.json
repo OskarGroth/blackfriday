@@ -1,0 +1,14 @@
+{
+  "name": "Backdrop",
+  "url": "https://cindori.com/backdrop",
+  "description": "Interactive live wallpapers for your Mac's Lock Screen and desktop that react to touch on the new MacBook Pro, clicks, a shake of your MacBook and music",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "30% off Lifetime: $20.99 instead of $29.99, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 20.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://cindori.com/images/backdrop/favicon/backdrop-favicon-512.png"
+}
